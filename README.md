@@ -36,17 +36,18 @@ spring.jpa.hibernate.ddl-auto=update
 
 Run the project as Spring Boot App.
 
-Open http://localhost:8080
+Open http://localhost:8080/YourClinic_Controller/HomePage
  in your browser.
 
 📷 Screenshots (Optional)
 
 ### 📷 Screenshots 
 <img width="1915" height="1010" alt="Screenshot 2025-08-14 234001" src="https://github.com/user-attachments/assets/69f31f5a-7638-4215-8a56-ae25a00c2858" />
-<img width="1918" height="915" alt="Screenshot 2025-08-14 234707" src="https://github.com/user-attachments/assets/7554b208-f4db-4f31-8eb1-60c6b071d217" />
-<img width="1908" height="909" alt="Screenshot 2025-08-14 234513" src="https://github.com/user-attachments/assets/fcbf1dff-d547-4804-bd08-a30d9e8822b6" />
-<img width="1916" height="911" alt="Screenshot 2025-08-14 234239" src="https://github.com/user-attachments/assets/d6292632-dd16-4963-8b2e-c33b53c24530" />
-<img width="1900" height="909" alt="Screenshot 2025-08-14 234111" src="https://github.com/user-attachments/assets/2503cb13-1432-478c-afd8-c4429f738331" />
+<img width="1900" height="909" alt="Screenshot 2025-08-14 234111" src="https://github.com/user-attachments/assets/bf36d2ee-1200-42aa-aec3-8516c0ee61da" />
+![Uploading Screenshot 2025-08-14 234239.png…]()
+<img width="1908" height="909" alt="Screenshot 2025-08-14 234513" src="https://github.com/user-attachments/assets/255b8c97-1596-4087-9cce-9222f0c9dba3" />
+![Uploading Screenshot 2025-08-14 234707.png…]()
+
 
 👩‍⚕️ Future Enhancements
 
