@@ -1,4 +1,4 @@
-<img width="1916" height="911" alt="Screenshot 2025-08-14 234239" src="https://github.com/user-attachments/assets/967fa296-0905-47d8-82f8-509b1d13a788" /># Clinic-Appointment-Management-System
+<img width="1915" height="1010" alt="Screenshot 2025-08-14 234001" src="https://github.com/user-attachments/assets/69f31f5a-7638-4215-8a56-ae25a00c2858" /># Clinic-Appointment-Management-System
 🏥 Overview
 
 The Clinic Appointment Management System is a web-based project built using Java Spring Boot. It helps clinics manage doctor schedules, patient appointments, and records easily and efficiently.
