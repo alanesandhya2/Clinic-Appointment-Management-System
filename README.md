@@ -39,9 +39,7 @@ Run the project as Spring Boot App.
 
 Open http://localhost:8080/YourClinic_Controller/HomePage
  in your browser.
-
-📷 Screenshots (Optional)
-
+ 
 ### 📷 Screenshots 
 <img width="1915" height="1010" alt="Screenshot 2025-08-14 234001" src="https://github.com/user-attachments/assets/69f31f5a-7638-4215-8a56-ae25a00c2858" />
 <img width="1900" height="909" alt="Screenshot 2025-08-14 234111" src="https://github.com/user-attachments/assets/bf36d2ee-1200-42aa-aec3-8516c0ee61da" />
