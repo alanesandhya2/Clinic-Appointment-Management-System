@@ -46,6 +46,8 @@ Open http://localhost:8080/YourClinic_Controller/HomePage
 <img width="1916" height="911" alt="Screenshot 2025-08-14 234239" src="https://github.com/user-attachments/assets/62944990-6433-46a8-9243-e32777a601b9" />
 <img width="1908" height="909" alt="Screenshot 2025-08-14 234513" src="https://github.com/user-attachments/assets/255b8c97-1596-4087-9cce-9222f0c9dba3" />
 <img width="1918" height="915" alt="Screenshot 2025-08-14 234707" src="https://github.com/user-attachments/assets/57c289b9-490d-4d14-a88a-cf7ef6246498" />
+<img width="1919" height="1012" alt="Screenshot 2025-11-26 125121" src="https://github.com/user-attachments/assets/ce7be0de-a995-421b-9dec-83449521bce1" />
+
 
 👩‍⚕️ Future Enhancements
 
